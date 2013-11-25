@@ -1,0 +1,10 @@
+added manifest
+adding: SimpleSocket/(in = 0) (out= 0)(stored 0%)
+adding: SimpleSocket/server/(in = 0) (out= 0)(stored 0%)
+adding: SimpleSocket/server/net/(in = 0) (out= 0)(stored 0%)
+adding: SimpleSocket/server/net/Listener.class(in = 8479) (out= 4089)(deflated 51%)
+adding: SimpleSocket/server/net/resources/(in = 0) (out= 0)(stored 0%)
+adding: SimpleSocket/server/net/resources/ServerListenerExceptionBundle.class(in = 3041) (out= 1653)(deflated 45%)
+adding: SimpleSocket/server/net/socket.class(in = 2153) (out= 1094)(deflated 49%)
+adding: SimpleSocket/server/net/SOCKETListener.class(in = 5992) (out= 3026)(deflated 49%)
+adding: SimpleSocket/server/net/SOCKETListenerFactory.class(in = 2723) (out= 1304)(deflated 52%)

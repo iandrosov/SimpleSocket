@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <record name="listeners" javaclass="com.wm.util.Values">
+    <record name="SOCKETListener@7777" javaclass="com.wm.util.Values">
+      <number name="port" type="Integer">7777</number>
+      <value name="protocol">SOCKET</value>
+      <value name="pkg">SimpleSocket</value>
+      <value name="enabled">true</value>
+      <value name="key">SOCKETListener@7777</value>
+      <value name="factoryKey">Generic/SOCKET</value>
+      <value name="configURL">/SimpleSocket/configSOCKET.dsp</value>
+      <value name="provider">Generic</value>
+      <value name="plugin">com.net.server.protocol.ServiceProtocol</value>
+      <value name="so_timeout">20000</value>
+      <value name="service_name">SimpleSocket:receive</value>
+    </record>
+  </record>
+</Values>
